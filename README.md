@@ -13,7 +13,8 @@ Spin up isolated database instances without Docker or root.
 
 - **Lab56** — consulting & training *(site coming: lab56.pl)*
 - **PFOps** — freelance / on-demand ops *(site coming: pfops.eu)*
-- **Personal & photography** *(site coming: piotrfratczak.eu)*
+- **Personal** *(site coming: piotrfratczak.eu)*
+- **Photography** *(site coming: fotografia.piotrfratczak.eu)*
 
 <!--
 **piotraf/piotraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
