@@ -1,32 +1,39 @@
 # Piotr Frątczak
 
-IT consultant & developer based in Łódź, Poland.
-Working on databases and Linux infrastructure.
+**Linux & database operations consultant — Poland.**
 
-## Featured project
+25+ years of Linux. B2B only, VAT EU registered.
 
-**[mydbin](https://github.com/piotraf/mydbin)** —
-rootless, multi-version MySQL/MariaDB sandbox for developers, DBAs and QA.
-Spin up isolated database instances without Docker or root.
+## What I do
 
-## Elsewhere
+- **Database operations** — MySQL lifecycle and tuning (5.5 → 9.x), MariaDB,
+  Firebird, Oracle. Connector/J quirks, replication, recovery, upgrades.
+- **Linux infrastructure** — Gentoo, Oracle Linux, openSUSE/SLES, Ubuntu.
+  Systemd, networking, ZFS, container/VM hosts.
+- **Virtualization & storage** — Proxmox, VirtualBox, LXC, ZFS, NFS.
 
-- **Lab56** — consulting & training *(site coming: lab56.pl)*
-- **PFOps** — freelance / on-demand ops *(site coming: pfops.eu)*
-- **Personal** *(site coming: piotrfratczak.eu)*
-- **Photography** *(site coming: fotografia.piotrfratczak.eu)*
+## What you'll find here
 
-<!--
-**piotraf/piotraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **[mydbin](https://github.com/piotraf/mydbin)** — rootless, multi-version
+  MySQL/MariaDB sandbox for developers, DBAs, and QA. Spin up isolated
+  database instances without Docker or root.
+- **[overlay-piotraf](https://github.com/piotraf/overlay-piotraf)** — my
+  personal Gentoo Portage overlay (`::piotraf`).
+- **[kb](https://github.com/piotraf/kb)** — public notes on Linux, databases,
+  and infrastructure. Things I've worked through and want to remember.
+- **[ops](https://github.com/piotraf/ops)** — reusable scripts, Ansible roles,
+  kickstart templates, compose files.
+- **[web](https://github.com/piotraf/web)** — sources for my own websites.
 
-Here are some ideas to get you started:
+Most of my consulting work lives in private customer organizations and is
+not visible here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+
+- GitHub: [@piotraf](https://github.com/piotraf)
+
+## Colophon
+
+GitHub repos here are sanitized public mirrors of my private working tree,
+maintained via CI. Issues opened here are read; PRs accepted on a
+best-effort basis.
