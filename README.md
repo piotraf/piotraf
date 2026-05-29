@@ -6,11 +6,11 @@
 
 ## What I do
 
-- **Database operations** — MySQL lifecycle and tuning (5.5 → 9.x), MariaDB,
+- **Database operations** — MySQL lifecycle and tuning (5.5 → 9.7), MariaDB,
   Firebird, Oracle. Connector/J quirks, replication, recovery, upgrades.
-- **Linux infrastructure** — Gentoo, Oracle Linux, openSUSE/SLES, Ubuntu.
+- **Linux infrastructure** — RedHat, Gentoo, Oracle Linux, openSUSE, Ubuntu, LFS.
   Systemd, networking, ZFS, container/VM hosts.
-- **Virtualization & storage** — Proxmox, VirtualBox, LXC, ZFS, NFS.
+- **Virtualization & storage** — Proxmox, VirtualBox, Qemu, LXC, ZFS, NFS.
 
 ## What you'll find here
 
